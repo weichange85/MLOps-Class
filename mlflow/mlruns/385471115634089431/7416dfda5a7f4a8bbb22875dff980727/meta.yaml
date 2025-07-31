@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/385471115634089431/7416dfda5a7f4a8bbb22875dff980727/artifacts
+end_time: 1753698920630
+entry_point_name: ''
+experiment_id: '385471115634089431'
+lifecycle_stage: active
+run_id: 7416dfda5a7f4a8bbb22875dff980727
+run_name: grandiose-snake-251
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753698920481
+status: 3
+tags: []
+user_id: weich

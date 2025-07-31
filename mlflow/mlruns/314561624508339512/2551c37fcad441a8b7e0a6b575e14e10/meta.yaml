@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/MLOps-Class/mlflow/mlruns/314561624508339512/2551c37fcad441a8b7e0a6b575e14e10/artifacts
+end_time: 1753944895825
+entry_point_name: ''
+experiment_id: '314561624508339512'
+lifecycle_stage: active
+run_id: 2551c37fcad441a8b7e0a6b575e14e10
+run_name: dapper-cod-58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753944881360
+status: 3
+tags: []
+user_id: weich

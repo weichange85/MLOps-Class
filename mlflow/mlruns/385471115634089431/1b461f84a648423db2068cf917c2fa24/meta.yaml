@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/385471115634089431/1b461f84a648423db2068cf917c2fa24/artifacts
+end_time: 1753700706605
+entry_point_name: ''
+experiment_id: '385471115634089431'
+lifecycle_stage: active
+run_id: 1b461f84a648423db2068cf917c2fa24
+run_name: capricious-loon-400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753700706425
+status: 3
+tags: []
+user_id: weich

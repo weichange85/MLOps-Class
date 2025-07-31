@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Projects/MLOps-Class/mlflow/mlruns/314561624508339512/777ad847ab014ee6ad4509a180dd780f/artifacts
+end_time: 1753944620643
+entry_point_name: ''
+experiment_id: '314561624508339512'
+lifecycle_stage: active
+run_id: 777ad847ab014ee6ad4509a180dd780f
+run_name: polite-ray-901
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753944619207
+status: 3
+tags: []
+user_id: weich
